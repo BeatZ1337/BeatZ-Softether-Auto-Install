@@ -13,5 +13,5 @@ By yum install python-colorama -y python-requests -y python-os -y
 # Run This Command In Server
 
 
-wget https://raw.githubusercontent.comBeatZ1337/BeatZ-Softether-Auto-Install/master/softether.py && chmod +x softether.py && python softether.py
+wget https://raw.githubusercontent.com/BeatZ1337/BeatZ-Softether-Auto-Install/master/softether.py && chmod +x softether.py && python softether.py
 
