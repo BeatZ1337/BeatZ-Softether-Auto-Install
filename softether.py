@@ -60,7 +60,7 @@ if choice == 2:
    time.sleep(1)
    os.system('make')
    os.system('cd /root')
-   os.system('mv vpnserver /usr/local')
+   os.system('vpnserver /usr/local')
    os.system('cd /usr/local/vpnserver')
    os.system('chmod 600 *')
    os.system('chmod 700 vpncmd')
